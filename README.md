@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @GroverII
 - 👀 I’m interested in learning somethink new.
-- 🌱 I’m currently learning how correctly find problems with video card.
+- 🌱 I’m currently looking for a place to gain work experience.
 - 💞️ I’m looking to collaborate on somewere without big pressure.
-- 📫 How to reach me - grigorij2002@inbox.lv
+- 📫 How to reach me - grigorijs.kazakevics@gmail.com
 
 <!---
 GroverII/GroverII is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
